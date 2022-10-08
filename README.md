@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vinodthale
-- 👀 I’m interested in CFD code devolopment 
+- 👀 I’m interested in CFD code development 
 - 🌱 I’m currently doing simulations using open source software Basilisk , Gerris 
 - 💞️ I’m open to opportunities and collaboration  
 
