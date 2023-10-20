@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vinodthale
+- 👋 Hi, I’m vinod 
 - 👀 I’m interested in CFD code development 
 - 🌱 I’m currently using  open source toolbox Basilisk  to do research in multiphase flow simulations.
 - 💞️ I’m open to opportunities and collaboration.  
