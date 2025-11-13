@@ -4,7 +4,7 @@
 
 I'm a Computational Fluid Dynamics (CFD) researcher passionate about code development and open-source simulation. My main focus is on multiphase and interfacial flows, including drop and bubble dynamics. I enjoy developing and applying numerical methods — especially the Volume of Fluid (VOF) method — to solve challenging multiphase problems.
 
-- 🏢 Currently affiliated with Zhejinag university
+- 🏢 Currently affiliated with Zhejiang university
 - 🌏 Based in Hangzhou, china
 
 ## 🛠️ Top Skills
