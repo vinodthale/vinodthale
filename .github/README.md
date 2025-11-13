@@ -4,14 +4,14 @@
 
 I'm a Computational Fluid Dynamics (CFD) researcher passionate about code development and open-source simulation. My main focus is on multiphase and interfacial flows, including drop and bubble dynamics. I enjoy developing and applying numerical methods — especially the Volume of Fluid (VOF) method — to solve challenging multiphase problems.
 
-- 🏢 Currently affiliated with Indian Institute of Technology Hyderabad
-- 🎓  Xi'an Jiaotong University, School of Aerospace
-- 🌏 Based in Hyderabad, India
+- 🏢 Currently affiliated with Zhejinag university
+- 🌏 Based in Hangzhou, china
 
 ## 🛠️ Top Skills
 
 - **Languages:** C++, C, Python
 - **Frameworks/Tools:** Basilisk C (open-source CFD toolbox)
+- **Frameworks/Tools:** IBAMR (open-source CFD toolbox)
 
 ## 🌊 Favorite Projects
 
